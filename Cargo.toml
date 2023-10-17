@@ -1,5 +1,5 @@
 [package]
-name = "doodlejump"
+name = "jumpy"
 version = "0.1.0"
 edition = "2021"
 

@@ -13,7 +13,7 @@ fn main() {
     App::new()
         .add_plugins(DefaultPlugins.set(WindowPlugin {
             primary_window: Some(Window {
-                title: "Doodle Jump Clone".into(),
+                title: "Jumpy".into(),
                 resolution: (300., 500.).into(),
                 resizable: false,
                 ..default()
